@@ -2,7 +2,8 @@ import styled from "@emotion/styled";
 
 export const Box = styled.section`
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   padding: 50px;
 `;
 
